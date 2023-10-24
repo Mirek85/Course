@@ -4,7 +4,10 @@ more bla bla bla
 and some more
 more bla bla bla
 and some more
+<<<<<<< HEAD
 
 
 and some more
 bla bla bla
+=======
+>>>>>>> 4607b2838f7d558185e5013f94383358d6a88bbc
